@@ -11,7 +11,7 @@ Basic knowledge required for time series modeling
 1. Semi-Supervised Classification with Graph Convolutional Networks ICLR'17
 2. Inductive Representation Learning on Large Graphs NIPS'17
 3. Graph Attention Networks ICLR'18
-### Spatical Temporal Modeling
+### Spatial Temporal Modeling
 
 1. Pre-training Enhanced Spatial-temporal Graph Neural Network for Multivariate Time Series Forecasting KDD'22
 2. SageFormer: Series-Aware Framework for Long-Term Multivariate Time-Series Forecasting IoTJ'24
